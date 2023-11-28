@@ -1,0 +1,505 @@
+clear
+cd PrepCourse-Henry/
+git log
+git init 
+ls -a
+git status
+git add
+git add 'Mi primer repositorio.txt'
+git commit -m 'Algun mensaje de commit'
+git commit --amend --reset-author
+code. 
+code PrepCourse-Henry
+cd desktop/
+cd PrepCourse\ Prueba/
+cd PrepCourse Henry\ Prueba/
+cd 'PrepCourse Henry'\ Prueba/
+clear 
+desktop/
+desktop
+cleat
+clear
+ cd desktop/
+cd Desktop/
+mkdir PrepCourse
+cd PrepCourse
+touch 'Repositorio NoReadme.txt'  
+code 'Repositorio NoReadme.txt'  
+code 'Repositorio NoReadme.txt'  
+code. 'Repositorio NoReadme.txt'  
+code 'Repositorio NoReadme.txt'  
+cd PrepCourse\ Prueba/
+clear
+desktop
+clear
+cd Prepcourse
+clear
+clear
+cd desktop/
+clear
+cd Desktop/
+cleart
+clear
+cd PrepCourse
+clear
+cd Desktop/
+clear
+cd Prepcourse
+clear
+git remote add origin https://github.com/Svilleg97/PrepCourse-Henry-NoReadme.git
+clear
+clear
+cd PrepCourse-Henry
+git remote add origin https://github.com/Svilleg97/PrepCourse-Henry-NoReadme.git
+c
+git add README.md 
+git commit -m 'Commit de prueba'
+git push origin main 
+git push origin main
+git push origin main
+git commit 'Commit de prueba2'
+clear
+git add README.md
+git commit -m 'Actualización 1'
+git push origin main
+cd PrepCourse Henry
+cd 'PrepCourse Henry'
+cd PrepCourseHenry
+clear
+cd PrepCourse
+cd Desktop/
+clear
+cd Desktopgit clone https://github.com/Svilleg97/fe-ct-prepcourse-fs.git
+cd desktop
+git clone  https://github.com/Svilleg97/fe-ct-prepcourse-fs.git
+clear
+which git
+clear
+clear
+cd desktop/
+clear
+cd desktop/
+mkdir "RepositorioHenry"
+cd "RepositorioHenry"
+mkdir "CarpetaHenry"
+cd "CarpetaHenry"
+touch "primerArchivo.txt"
+help
+cd desktopclear
+clear
+cd desktop/
+git clone https://github.com/Svilleg97/RepositorioHenry.git
+clear
+cd desktop/
+git clone https://github.com/Svilleg97/RepositorioHenry.git
+cd RepositorioHenry
+mkdir "CarpetaHenry"
+cd "CarpetaHenry"
+touch "primerArchivo.txt"
+code.
+code RepositorioHenry
+code RepositorioHenry
+git commit -m "Commit de prueba para el Homework sobre Git, Github y Terminal."
+clear
+git commit -m "Commit de Homework"
+clear
+cd desktopcd RepositorioHenry
+cd RepositorioHenry
+cd Desktop/
+cd RepositorioHenry
+code.
+code.
+code RepositorioHenry
+git add README.md
+git commit -m "Commit Homework"
+git push origin main 
+node
+console.log(21 % 5); 
+code RepositorioHenry
+npm install
+npm test 04
+npm test 03
+npm test 03
+npm test 01
+npm test 03
+npm test 03
+npm test 04
+npm test 04
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 04
+npm test 03
+npm test 03
+npm test 02
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+git clone https://github.com/checkpoint-soyhenry-org/2023-02-18-Svilleg97.git
+clear
+cd Desktop/
+mkdir Henry Challenge
+mkdir 'Henry Challenge'
+cd 'Henry Challenge'
+git clone https://github.com/checkpoint-soyhenry-org/2023-02-18-Svilleg97.git
+npm test 02
+npm test clear
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 03
+cd 2023-02-18-Svilleg97
+npm install
+npm test
+npm test 02
+npm test 02
+npm test 01
+npm test 01
+npm test 01
+npm test 02
+npm test 02
+npm test 02
+npm test 03
+npm test 03
+npm test 03
+npm test 03
+npm test 04
+npm test 04
+npm test 01
+npm test 02
+npm test 03
+npm test 02
+npm test 04
+npm test 03
+npm test 05
+npm test 06-07-08
+npm test 06
+npm test 06
+npm test 07
+npm test 08
+npm test 09
+npm test 09
+npm test 09
+npm test 01
+npm test 02
+npm test 03
+npm test 04
+npm test 05
+npm test 06
+npm test 07
+npm test 08
+npm test 09
+git add.
+git add
+git add .
+git commit -m 'Henry Challenge terminado'
+git push origin main 
+git clone https://github.com/Svilleg97/FT-M1.git
+clear
+npm test
+npm i 
+npm test 02
+npm test
+npm test
+npm test
+npm test
+npm tet 
+npm i 
+npm test
+npm i
+npm test
+npm test
+npm test
+npm test
+npm test
+clear
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+npm test
+git clone https://github.com/Svilleg97/FT-M1.git
+cd desktop
+mkdir M1
+cd M1
+git clone https://github.com/Svilleg97/FT-M1.git
+function cuidadoConeLConsoleLog (nombre) {
+    console.log(nombre)
+    return nombre;
+ }
+npm test 
+npm test
+npm install
+npm install
+cd ./M1/
+cd .\M1npm install
+cd .\01-IntroToCSnpm install
+npm install
+npm install
+npm install
+npm install
+npm install
+npm install
+cd desktop
+cd HOMEWORKS M1
+cd desktop
+cd desktop
+mkdir M1
+git clone https://github.com/Svilleg97/FT-M1.git
+npm install
+npm install
+npm test
+npm install
+npm install 
+cd desktop
+cd Desktop
+clear
+cd desktop
+clear
+mkdir modulo 
+git clone https://github.com/Svilleg97/FT-M1.git
+npm test
+mkdir VM1
+VM1
+cd 
+mkdir VillM1
+cd VillM1
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 
+npm test 01
+npm install
+npm test
+npm test 01
+npm test
+npm test 01
+npm test
+npm test 01
+npm install
+npm test
+npm install
+npm test 01
+npm test 01
+npm install
+npm test 01
+npm test 01
+npm install
+npm test
+npm test 01
+npm test 01
+cd desktop
+mk dir VillegasM1
+cd VillegasM1
+cd desktop
+clear
+cd desktop
+cd desktop
+mkdir VillM1
+cd VillM1
+git clone https://github.com/checkpoint-soyhenry-org/2023-04-14-Svilleg97.git
+npm install
+npm test 
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm install
+npm test
+npm test 01
+npm install
+npm test
+npm test 01
+npm test 01
+npm test 
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+npm test 01
+clear
+npm test 01
+git add .
+git commit -m 'checkpoint commit'
+git push origin main
+git add .
+git commit -m 'checkpoint resuelto'
+git commit -m 'checkpoint commit'
+CLEAR
+git add
+git add .
+git commit -m 'checkpoint commit'
+git push origin main
+CLEAR
+npm test 05.test.js
+npm test 06.test.js
+npm test 07.test.js
+npm test 08.test.js
+npm test 08.test.js
+npm test 07.test.js
+npm test 09.test.js
+npm test 09.test.js
+npm test 06.test.js
+npm test 06.test.js
+CLEAR
+npm install
+npm test
+npm test 06.test.js
+npm test
+npm test 10.test.js
+npm test
+git add
+npm test 01
+npm test 01
+npm test 01
+npm test 02
+npm test 02
+CLEAR
+npm test 02
+npm install
+npm install
+npm test 02
+clear
+npm test 02
+clear
+npm test 2
+npm test 2
+npm test 01
+npm test 2
+npm test 02
+clear
+npm test 02
+cd test
+cd /Users/SaraVillegas/Desktop/VillM1/2023-04-14-Svilleg97/tests/
+pwd
+npm test 02
+CLEAR
+npm test 03
+npm test 03
+npm test 04
+npm test 01
+npm test 02
+npm test 02.test.js
+npm test 02.test.js
+npm test 03
+npm test 04.test.js
+npm test 03.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+CLEAR
+npm test 04.test.js
+npm test 04.test.js
+npm test 04.test.js
+npm test 05.test.js
+npm test 05.test.js
+npm test 05.test.js
+CLEAR
+npm test 05.test.js
+git add 
+clear
+npm test
+git add .
+git commit -m 'checkpoint entrega final'
+git push origin main
+git add .
+git commit -m 'checkpoint'
+git push 
+git c
+git log
+CLEAR
+npm test 07.test.js
+npm install
+npm test
+npm test 07.test.js
+npm test 07.test.js
+git commit log
+cd /Users/SaraVillegas/Desktop/VillM1/2023-04-14-Svilleg97 
+ls
+git status
+git log
+git add .
+git status
+git commit -m "
+git commit -m "ejercicio 10"
+git status
+git push origin main
+git status
+git log
+cd desktop
+cd M2 FT13B
+cd desktop
+mkdir M2
+git clone https://github.com/Svilleg97/FT-M2.git

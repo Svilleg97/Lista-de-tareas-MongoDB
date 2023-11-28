@@ -1,0 +1,9 @@
+clear
+cd Desktop/
+cd PrepCourse Henry
+clear
+cd PrepCourse\ Henry/
+git remote add origin https://github.com/Svilleg97/PrepCourse-Henry-NoReadme.git
+git branch -M main
+git push -u origin main
+clear

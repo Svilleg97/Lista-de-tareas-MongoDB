@@ -1,0 +1,134 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.3.1
+2 info using node@v18.14.0
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 11ms
+6 timing config:load:builtin Completed in 12ms
+7 timing config:load:cli Completed in 11ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/Users/SaraVillegas/Library/Caches/typescript/5.1/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:/Users/SaraVillegas/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 31ms
+17 timing npm:load:configload Completed in 31ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm install @types/bootstrap@ts5.1 @types/markdown-it@ts5.1 @types/markdown-it-highlightjs@ts5.1
+21 verbose argv "install" "--ignore-scripts" "@types/bootstrap@ts5.1" "@types/markdown-it@ts5.1" "@types/markdown-it-highlightjs@ts5.1" "--save-dev" "--user-agent" "typesInstaller/5.1.6"
+22 timing npm:load:setTitle Completed in 30ms
+23 timing config:load:flatten Completed in 4ms
+24 timing npm:load:display Completed in 6ms
+25 verbose logfile logs-max:10 dir:/Users/SaraVillegas/.npm/_logs/2023-08-04T15_45_04_016Z-
+26 verbose logfile /Users/SaraVillegas/.npm/_logs/2023-08-04T15_45_04_016Z-debug-0.log
+27 timing npm:load:logFile Completed in 6ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 76ms
+31 timing arborist:ctor Completed in 2ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 44ms
+35 timing arborist:ctor Completed in 1ms
+36 http fetch GET 200 https://registry.npmjs.org/@types%2fmarkdown-it 398ms (cache revalidated)
+37 http fetch GET 200 https://registry.npmjs.org/@types%2fbootstrap 403ms (cache revalidated)
+38 http fetch GET 200 https://registry.npmjs.org/@types%2fmarkdown-it-highlightjs 1089ms (cache revalidated)
+39 timing idealTree:userRequests Completed in 1098ms
+40 silly idealTree buildDeps
+41 silly fetch manifest @types/markdown-it@12.2.3
+42 silly fetch manifest @types/bootstrap@5.2.6
+43 silly fetch manifest @types/markdown-it-highlightjs@3.3.1
+44 silly placeDep ROOT @types/bootstrap@5.2.6 OK for:  want: 5.2.6
+45 silly placeDep ROOT @types/markdown-it@12.2.3 OK for:  want: 12.2.3
+46 silly placeDep ROOT @types/markdown-it-highlightjs@3.3.1 OK for:  want: 3.3.1
+47 silly fetch manifest @popperjs/core@^2.9.2
+48 silly fetch manifest @types/linkify-it@*
+49 silly fetch manifest @types/mdurl@*
+50 silly fetch manifest highlight.js@^10.1.0
+51 http fetch GET 200 https://registry.npmjs.org/highlight.js 184ms (cache updated)
+52 http fetch GET 200 https://registry.npmjs.org/@types%2fmdurl 259ms (cache updated)
+53 http fetch GET 200 https://registry.npmjs.org/@popperjs%2fcore 277ms (cache updated)
+54 http fetch GET 200 https://registry.npmjs.org/@types%2flinkify-it 555ms (cache updated)
+55 timing idealTree:#root Completed in 572ms
+56 silly placeDep ROOT @popperjs/core@2.11.8 OK for: @types/bootstrap@5.2.6 want: ^2.9.2
+57 timing idealTree:node_modules/@types/bootstrap Completed in 3ms
+58 timing idealTree:node_modules/@popperjs/core Completed in 0ms
+59 silly placeDep ROOT @types/linkify-it@3.0.2 OK for: @types/markdown-it@12.2.3 want: *
+60 silly placeDep ROOT @types/mdurl@1.0.2 OK for: @types/markdown-it@12.2.3 want: *
+61 timing idealTree:node_modules/@types/markdown-it Completed in 5ms
+62 timing idealTree:node_modules/@types/linkify-it Completed in 0ms
+63 silly placeDep ROOT highlight.js@10.7.3 OK for: @types/markdown-it-highlightjs@3.3.1 want: ^10.1.0
+64 timing idealTree:node_modules/@types/markdown-it-highlightjs Completed in 3ms
+65 timing idealTree:node_modules/@types/mdurl Completed in 0ms
+66 timing idealTree:node_modules/highlight.js Completed in 0ms
+67 timing idealTree:buildDeps Completed in 586ms
+68 timing idealTree:fixDepFlags Completed in 1ms
+69 timing idealTree Completed in 1731ms
+70 timing reify:loadTrees Completed in 1732ms
+71 timing reify:diffTrees Completed in 3ms
+72 silly reify moves {}
+73 timing reify:retireShallow Completed in 1ms
+74 timing reify:createSparse Completed in 5ms
+75 timing reify:loadBundles Completed in 0ms
+76 silly audit bulk request {
+76 silly audit   '@types/eslint': [ '8.44.1' ],
+76 silly audit   '@types/eslint-plugin-prettier': [ '3.1.0' ],
+76 silly audit   '@types/estree': [ '1.0.1' ],
+76 silly audit   '@types/hoist-non-react-statics': [ '3.3.1' ],
+76 silly audit   '@types/json-schema': [ '7.0.12' ],
+76 silly audit   '@types/prettier': [ '2.7.3' ],
+76 silly audit   '@types/prop-types': [ '15.7.5' ],
+76 silly audit   '@types/react': [ '18.2.17' ],
+76 silly audit   '@types/react-dom': [ '18.2.7' ],
+76 silly audit   '@types/scheduler': [ '0.16.3' ],
+76 silly audit   '@types/styled-components': [ '5.1.26' ],
+76 silly audit   csstype: [ '3.1.2' ],
+76 silly audit   'hoist-non-react-statics': [ '3.3.2' ],
+76 silly audit   'react-is': [ '16.13.1' ],
+76 silly audit   'types-registry': [ '0.1.654' ],
+76 silly audit   '@types/bootstrap': [ '5.2.6' ],
+76 silly audit   '@types/markdown-it': [ '12.2.3' ],
+76 silly audit   '@types/markdown-it-highlightjs': [ '3.3.1' ],
+76 silly audit   '@popperjs/core': [ '2.11.8' ],
+76 silly audit   '@types/linkify-it': [ '3.0.2' ],
+76 silly audit   '@types/mdurl': [ '1.0.2' ],
+76 silly audit   'highlight.js': [ '10.7.3' ]
+76 silly audit }
+77 silly tarball no local data for @popperjs/core@https://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz. Extracting by manifest.
+78 timing reifyNode:node_modules/@types/linkify-it Completed in 150ms
+79 timing reifyNode:node_modules/@types/markdown-it-highlightjs Completed in 151ms
+80 timing reifyNode:node_modules/@types/mdurl Completed in 163ms
+81 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 232ms
+82 timing auditReport:getReport Completed in 236ms
+83 silly audit report {}
+84 timing auditReport:init Completed in 0ms
+85 timing reify:audit Completed in 237ms
+86 timing reifyNode:node_modules/@types/bootstrap Completed in 213ms
+87 timing reifyNode:node_modules/@types/markdown-it Completed in 224ms
+88 http fetch GET 200 https://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz 642ms (cache miss)
+89 timing reifyNode:node_modules/@popperjs/core Completed in 665ms
+90 timing reifyNode:node_modules/highlight.js Completed in 784ms
+91 timing reify:unpack Completed in 785ms
+92 timing reify:unretire Completed in 1ms
+93 timing build:queue Completed in 1ms
+94 timing build:deps Completed in 1ms
+95 timing build Completed in 2ms
+96 timing reify:build Completed in 2ms
+97 timing reify:trash Completed in 0ms
+98 timing reify:save Completed in 19ms
+99 timing reify Completed in 2571ms
+100 silly ADD node_modules/highlight.js
+101 silly ADD node_modules/@types/mdurl
+102 silly ADD node_modules/@types/linkify-it
+103 silly ADD node_modules/@popperjs/core
+104 silly ADD node_modules/@types/markdown-it-highlightjs
+105 silly ADD node_modules/@types/markdown-it
+106 silly ADD node_modules/@types/bootstrap
+107 timing command:install Completed in 2581ms
+108 verbose exit 0
+109 timing npm Completed in 2683ms
+110 info ok

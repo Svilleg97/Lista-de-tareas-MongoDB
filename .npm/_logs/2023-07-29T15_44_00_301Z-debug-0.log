@@ -1,0 +1,193 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.3.1
+2 info using node@v18.14.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 18ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 11ms
+6 timing config:load:builtin Completed in 13ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/Users/SaraVillegas/Library/Caches/typescript/5.1/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:/Users/SaraVillegas/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 3ms
+16 timing config:load Completed in 42ms
+17 timing npm:load:configload Completed in 43ms
+18 timing npm:load:mkdirpcache Completed in 4ms
+19 timing npm:load:mkdirplogs Completed in 1ms
+20 verbose title npm install @types/react@ts5.1 @types/react-dom@ts5.1 @types/styled-components@ts5.1 @types/eslint@ts5.1 @types/eslint-plugin-prettier@ts5.1 @types/prettier@ts5.1
+21 verbose argv "install" "--ignore-scripts" "@types/react@ts5.1" "@types/react-dom@ts5.1" "@types/styled-components@ts5.1" "@types/eslint@ts5.1" "@types/eslint-plugin-prettier@ts5.1" "@types/prettier@ts5.1" "--save-dev" "--user-agent" "typesInstaller/5.1.6"
+22 timing npm:load:setTitle Completed in 37ms
+23 timing config:load:flatten Completed in 9ms
+24 timing npm:load:display Completed in 12ms
+25 verbose logfile logs-max:10 dir:/Users/SaraVillegas/.npm/_logs/2023-07-29T15_44_00_301Z-
+26 verbose logfile /Users/SaraVillegas/.npm/_logs/2023-07-29T15_44_00_301Z-debug-0.log
+27 timing npm:load:logFile Completed in 9ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 109ms
+31 timing arborist:ctor Completed in 2ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 32ms
+35 timing arborist:ctor Completed in 0ms
+36 http fetch GET 200 https://registry.npmjs.org/@types%2feslint-plugin-prettier 586ms (cache miss)
+37 http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 748ms (cache miss)
+38 http fetch GET 200 https://registry.npmjs.org/@types%2feslint 1423ms (cache updated)
+39 http fetch GET 200 https://registry.npmjs.org/@types%2fstyled-components 1447ms (cache miss)
+40 http fetch GET 200 https://registry.npmjs.org/@types%2fprettier 2135ms (cache updated)
+41 http fetch GET 200 https://registry.npmjs.org/@types%2freact 2774ms (cache miss)
+42 timing idealTree:userRequests Completed in 2787ms
+43 silly idealTree buildDeps
+44 silly fetch manifest @types/eslint-plugin-prettier@3.1.0
+45 silly fetch manifest @types/react-dom@18.2.7
+46 silly fetch manifest @types/eslint@8.44.1
+47 silly fetch manifest @types/styled-components@5.1.26
+48 silly fetch manifest @types/prettier@2.7.3
+49 silly fetch manifest @types/react@18.2.17
+50 silly placeDep ROOT @types/eslint@8.44.1 OK for:  want: 8.44.1
+51 silly placeDep ROOT @types/eslint-plugin-prettier@3.1.0 OK for:  want: 3.1.0
+52 silly placeDep ROOT @types/prettier@2.7.3 OK for:  want: 2.7.3
+53 silly placeDep ROOT @types/react@18.2.17 OK for:  want: 18.2.17
+54 silly placeDep ROOT @types/react-dom@18.2.7 OK for:  want: 18.2.7
+55 silly placeDep ROOT @types/styled-components@5.1.26 OK for:  want: 5.1.26
+56 silly fetch manifest @types/estree@*
+57 silly fetch manifest @types/json-schema@*
+58 silly fetch manifest @types/prop-types@*
+59 silly fetch manifest @types/scheduler@*
+60 silly fetch manifest csstype@^3.0.2
+61 silly fetch manifest @types/hoist-non-react-statics@*
+62 http fetch GET 200 https://registry.npmjs.org/@types%2fhoist-non-react-statics 135ms (cache miss)
+63 http fetch GET 200 https://registry.npmjs.org/@types%2fprop-types 163ms (cache miss)
+64 http fetch GET 200 https://registry.npmjs.org/@types%2festree 168ms (cache updated)
+65 http fetch GET 200 https://registry.npmjs.org/@types%2fjson-schema 177ms (cache updated)
+66 http fetch GET 200 https://registry.npmjs.org/csstype 573ms (cache miss)
+67 http fetch GET 200 https://registry.npmjs.org/@types%2fscheduler 867ms (cache miss)
+68 timing idealTree:#root Completed in 913ms
+69 silly placeDep ROOT @types/estree@1.0.1 OK for: @types/eslint@8.44.1 want: *
+70 silly placeDep ROOT @types/json-schema@7.0.12 OK for: @types/eslint@8.44.1 want: *
+71 timing idealTree:node_modules/@types/eslint Completed in 8ms
+72 timing idealTree:node_modules/@types/eslint-plugin-prettier Completed in 0ms
+73 timing idealTree:node_modules/@types/estree Completed in 0ms
+74 timing idealTree:node_modules/@types/json-schema Completed in 0ms
+75 timing idealTree:node_modules/@types/prettier Completed in 0ms
+76 silly placeDep ROOT @types/prop-types@15.7.5 OK for: @types/react@18.2.17 want: *
+77 silly placeDep ROOT @types/scheduler@0.16.3 OK for: @types/react@18.2.17 want: *
+78 silly placeDep ROOT csstype@3.1.2 OK for: @types/react@18.2.17 want: ^3.0.2
+79 timing idealTree:node_modules/@types/react Completed in 28ms
+80 timing idealTree:node_modules/@types/prop-types Completed in 0ms
+81 timing idealTree:node_modules/@types/react-dom Completed in 0ms
+82 timing idealTree:node_modules/@types/scheduler Completed in 0ms
+83 silly placeDep ROOT @types/hoist-non-react-statics@3.3.1 OK for: @types/styled-components@5.1.26 want: *
+84 silly fetch manifest hoist-non-react-statics@^3.3.0
+85 http fetch GET 200 https://registry.npmjs.org/hoist-non-react-statics 186ms (cache miss)
+86 timing idealTree:node_modules/@types/styled-components Completed in 209ms
+87 silly placeDep ROOT hoist-non-react-statics@3.3.2 OK for: @types/hoist-non-react-statics@3.3.1 want: ^3.3.0
+88 silly fetch manifest react-is@^16.7.0
+89 http fetch GET 200 https://registry.npmjs.org/react-is 1399ms (cache updated)
+90 timing idealTree:node_modules/@types/hoist-non-react-statics Completed in 1493ms
+91 timing idealTree:node_modules/csstype Completed in 0ms
+92 silly placeDep ROOT react-is@16.13.1 OK for: hoist-non-react-statics@3.3.2 want: ^16.7.0
+93 timing idealTree:node_modules/hoist-non-react-statics Completed in 4ms
+94 timing idealTree:node_modules/react-is Completed in 0ms
+95 timing idealTree:buildDeps Completed in 2665ms
+96 timing idealTree:fixDepFlags Completed in 1ms
+97 timing idealTree Completed in 5488ms
+98 timing reify:loadTrees Completed in 5489ms
+99 timing reify:diffTrees Completed in 4ms
+100 silly reify moves {}
+101 timing reify:retireShallow Completed in 2ms
+102 timing reify:createSparse Completed in 4ms
+103 timing reify:loadBundles Completed in 0ms
+104 silly audit bulk request {
+104 silly audit   'types-registry': [ '0.1.653' ],
+104 silly audit   '@types/eslint': [ '8.44.1' ],
+104 silly audit   '@types/eslint-plugin-prettier': [ '3.1.0' ],
+104 silly audit   '@types/prettier': [ '2.7.3' ],
+104 silly audit   '@types/react': [ '18.2.17' ],
+104 silly audit   '@types/react-dom': [ '18.2.7' ],
+104 silly audit   '@types/styled-components': [ '5.1.26' ],
+104 silly audit   '@types/estree': [ '1.0.1' ],
+104 silly audit   '@types/json-schema': [ '7.0.12' ],
+104 silly audit   '@types/prop-types': [ '15.7.5' ],
+104 silly audit   '@types/scheduler': [ '0.16.3' ],
+104 silly audit   csstype: [ '3.1.2' ],
+104 silly audit   '@types/hoist-non-react-statics': [ '3.3.1' ],
+104 silly audit   'hoist-non-react-statics': [ '3.3.2' ],
+104 silly audit   'react-is': [ '16.13.1' ]
+104 silly audit }
+105 silly tarball no local data for hoist-non-react-statics@https://registry.npmjs.org/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz. Extracting by manifest.
+106 silly tarball no local data for @types/hoist-non-react-statics@https://registry.npmjs.org/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.1.tgz. Extracting by manifest.
+107 silly tarball no local data for csstype@https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz. Extracting by manifest.
+108 silly tarball no local data for @types/json-schema@https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.12.tgz. Extracting by manifest.
+109 silly tarball no local data for @types/scheduler@https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.3.tgz. Extracting by manifest.
+110 silly tarball no local data for @types/prop-types@https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz. Extracting by manifest.
+111 silly tarball no local data for @types/estree@https://registry.npmjs.org/@types/estree/-/estree-1.0.1.tgz. Extracting by manifest.
+112 silly tarball no local data for @types/styled-components@https://registry.npmjs.org/@types/styled-components/-/styled-components-5.1.26.tgz. Extracting by manifest.
+113 silly tarball no local data for @types/react-dom@https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.7.tgz. Extracting by manifest.
+114 silly tarball no local data for @types/react@https://registry.npmjs.org/@types/react/-/react-18.2.17.tgz. Extracting by manifest.
+115 silly tarball no local data for @types/prettier@https://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz. Extracting by manifest.
+116 silly tarball no local data for @types/eslint-plugin-prettier@https://registry.npmjs.org/@types/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.0.tgz. Extracting by manifest.
+117 silly tarball no local data for @types/eslint@https://registry.npmjs.org/@types/eslint/-/eslint-8.44.1.tgz. Extracting by manifest.
+118 timing reifyNode:node_modules/react-is Completed in 124ms
+119 http fetch GET 200 https://registry.npmjs.org/hoist-non-react-statics/-/hoist-non-react-statics-3.3.2.tgz 403ms (cache miss)
+120 timing reifyNode:node_modules/hoist-non-react-statics Completed in 428ms
+121 http fetch GET 200 https://registry.npmjs.org/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.1.tgz 503ms (cache miss)
+122 timing reifyNode:node_modules/@types/hoist-non-react-statics Completed in 526ms
+123 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 638ms
+124 timing auditReport:getReport Completed in 644ms
+125 silly audit report {}
+126 timing auditReport:init Completed in 0ms
+127 timing reify:audit Completed in 646ms
+128 http fetch GET 200 https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.3.tgz 704ms (cache miss)
+129 timing reifyNode:node_modules/@types/scheduler Completed in 729ms
+130 http fetch GET 200 https://registry.npmjs.org/@types/json-schema/-/json-schema-7.0.12.tgz 706ms (cache miss)
+131 timing reifyNode:node_modules/@types/json-schema Completed in 730ms
+132 http fetch GET 200 https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz 714ms (cache miss)
+133 timing reifyNode:node_modules/csstype Completed in 738ms
+134 http fetch GET 200 https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.5.tgz 884ms (cache miss)
+135 timing reifyNode:node_modules/@types/prop-types Completed in 911ms
+136 http fetch GET 200 https://registry.npmjs.org/@types/estree/-/estree-1.0.1.tgz 885ms (cache miss)
+137 timing reifyNode:node_modules/@types/estree Completed in 913ms
+138 http fetch GET 200 https://registry.npmjs.org/@types/prettier/-/prettier-2.7.3.tgz 880ms (cache miss)
+139 timing reifyNode:node_modules/@types/prettier Completed in 924ms
+140 http fetch GET 200 https://registry.npmjs.org/@types/eslint/-/eslint-8.44.1.tgz 901ms (cache miss)
+141 timing reifyNode:node_modules/@types/eslint Completed in 952ms
+142 http fetch GET 200 https://registry.npmjs.org/@types/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.0.tgz 1178ms (cache miss)
+143 timing reifyNode:node_modules/@types/eslint-plugin-prettier Completed in 1222ms
+144 http fetch GET 200 https://registry.npmjs.org/@types/styled-components/-/styled-components-5.1.26.tgz 1191ms (cache miss)
+145 timing reifyNode:node_modules/@types/styled-components Completed in 1228ms
+146 http fetch GET 200 https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.7.tgz 1194ms (cache miss)
+147 timing reifyNode:node_modules/@types/react-dom Completed in 1233ms
+148 http fetch GET 200 https://registry.npmjs.org/@types/react/-/react-18.2.17.tgz 1261ms (cache miss)
+149 timing reifyNode:node_modules/@types/react Completed in 1301ms
+150 timing reify:unpack Completed in 1303ms
+151 timing reify:unretire Completed in 1ms
+152 timing build:queue Completed in 1ms
+153 timing build:deps Completed in 2ms
+154 timing build Completed in 3ms
+155 timing reify:build Completed in 3ms
+156 timing reify:trash Completed in 0ms
+157 timing reify:save Completed in 103ms
+158 timing reify Completed in 6961ms
+159 silly ADD node_modules/react-is
+160 silly ADD node_modules/hoist-non-react-statics
+161 silly ADD node_modules/@types/hoist-non-react-statics
+162 silly ADD node_modules/csstype
+163 silly ADD node_modules/@types/scheduler
+164 silly ADD node_modules/@types/prop-types
+165 silly ADD node_modules/@types/json-schema
+166 silly ADD node_modules/@types/estree
+167 silly ADD node_modules/@types/styled-components
+168 silly ADD node_modules/@types/react-dom
+169 silly ADD node_modules/@types/react
+170 silly ADD node_modules/@types/prettier
+171 silly ADD node_modules/@types/eslint-plugin-prettier
+172 silly ADD node_modules/@types/eslint
+173 timing command:install Completed in 6999ms
+174 verbose exit 0
+175 timing npm Completed in 7139ms
+176 info ok

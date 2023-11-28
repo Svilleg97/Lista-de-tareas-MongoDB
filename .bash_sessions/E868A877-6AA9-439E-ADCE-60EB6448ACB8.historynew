@@ -1,0 +1,9 @@
+cd.desktop
+cd desktop
+mkdir ADA 
+cd ADA
+git clone https://github.com/ada-school/git-practice.git
+cd desktop
+cd JS Notes
+clear
+cd desktop

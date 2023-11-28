@@ -1,0 +1,9 @@
+cd desktop
+mkdir programacion
+cd programacion
+git clone https://github.com/ada-school/git-practice.git
+clear
+cddesktop
+cd desktop
+mkdir How to make a pizza
+mkdir Pizza

@@ -1,0 +1,18 @@
+cd desktop/
+git clone https://github.com/Svilleg97/RepositorioHenry.git
+cd RepositorioHenry
+cd "CarpetaHenry"
+mkdir "CarpetaHenry"
+cd "CarpetaHenry"
+touch "primerArchivo.txt".
+code RepositorioHenry
+code.
+code.
+code RepositorioHenry
+git add README.md
+git add README.md
+git add README.md
+git commit -m "Commit de Homework"
+cd RepositorioHenry
+clear
+cd desktop/

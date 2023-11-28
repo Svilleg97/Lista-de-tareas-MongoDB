@@ -1,0 +1,11 @@
+/usr/local/bin/node ; exit;
+nodeçv
+node-v
+git
+gitNext to “Shells open with”, select “Command (complete path)”, then enter the complete path to the shell you want to use.
+git --list
+git config --global user.name ¨Svilleg97¨
+git config --global user.mail ¨saravillegas21@gmail.com¨
+git config --list
+git
+git

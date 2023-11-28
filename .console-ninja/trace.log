@@ -1,0 +1,369 @@
+13:28:16.936 info extension stopping host
+13:28:18.900 info extension host process output: port:[54161]
+13:28:18.900 info extension 
+13:28:18.838 info host ------------ starting ------------
+13:28:19.095 info host client connected: extension { address: '::', family: 'IPv6', port: 54161 }
+13:28:19.273 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.122","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.122/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.122/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/Users/SaraVillegas/Desktop/FT-M2/10-React-Forms/homework/01 - Exercises/src/components/Home/Home.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/04-Ajax/homework/server.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/10-React-Forms/demo/src/components/DynamicInputs.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/10-React-Forms/demo/src/components/Uncontrolled.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/01-DOM/demo/eventos.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/redux/index.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/demoSubscribe/test.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/demo/src/actions/index.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/demo/test.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/homework/01 - Exercises/tests/01.test.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/12-React-Redux/demo/dist/bundle.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/03-ES6/ejemplos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/demoClase/index.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/homework/server.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/homework/browser/app.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/demo/src/modulo1.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/demo/src/index.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/homework/01 - Exercises/src/components/Species/Species.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/05-Bundlers/demo/dist/bundle.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/demo/indexStatevsVar.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/demo/webpack/src/containers/Main.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/demo/indexAxios.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/demo/indexState.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/08-React-Estado-LifeCycle/demo/indexLifeCycle.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/11-Redux/demo/todos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/13-React-Hooks/demo/src/components/AppHooks.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/09-React-Routing/homework/01 - Exercises/src/components/CardDetail/CardDetail.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/09-React-Routing/homework/01 - Exercises/src/components/Home/Home.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/07-React-Estilos/demo/cssModules/src/components/Product.jsx","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/07-React-Estilos/demo/cssModules/dist/bundle.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/01-DOM/Apuntes DOM.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"hh:mm:ss.SSS","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","nuxt","remix","qwik","hydrogen","serverless"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.39"],"host":"127.0.0.1"}
+13:28:19.411 info host starting tools discovery and integration
+13:28:19.412 info host creating /Users/SaraVillegas/.console-ninja/.bin
+13:28:19.464 info host installing /Users/SaraVillegas/.console-ninja/.bin/loader.js
+13:28:19.467 info host installing /Users/SaraVillegas/.console-ninja/.bin/console-ninja
+13:28:19.469 info host looking for tools to patch
+13:28:19.779 info host worker Starting Host Worker...
+13:28:20.964 info host found 0 tool file(s) to patch
+13:28:20.968 info host completed tools discovery and integration
+18:12:29.081 info extension stopping host
+10:10:51.569 info extension stopping host
+10:10:54.001 info extension host process output: port:[55278]
+10:10:54.001 info extension 
+10:10:53.972 info host ------------ starting ------------
+10:10:54.067 info host client connected: extension { address: '::', family: 'IPv6', port: 55278 }
+10:10:54.071 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.125","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/Users/SaraVillegas/Desktop/FT-M1/02-JavaScriptAvanzado-I/debugging/demo/index.html","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/homework.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/06-EstructuraDeDatos-III/Ejemplos/arbolBusqueda/arbolBinarioBusqueda.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/Solucion.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/listas.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/homework.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/torreDeHanoi.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/arrays.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/torredehanoiFacu.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/matriz.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/pilas.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/demo/sum.test.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/07-Algoritmos-I/homework/homework.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"hh:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","nuxt","remix","qwik","hydrogen","serverless"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.39"],"host":"127.0.0.1"}
+10:10:54.478 info host starting tools discovery and integration
+10:10:54.485 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+10:10:54.491 info host looking for tools to patch
+10:10:55.229 info host worker Starting Host Worker...
+10:10:57.818 info host found 6 tool file(s) to patch
+10:10:57.823 info host patching /Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/node_modules/jest/bin/jest.js
+10:10:57.824 info host patching /Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/node_modules/jest-runner/build/testWorker.js
+10:10:57.824 info host patching /Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/node_modules/jest/bin/jest.js
+10:10:57.824 info host patching /Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/node_modules/jest-runner/build/testWorker.js
+10:10:57.824 info host patching /Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/homework/node_modules/jest/bin/jest.js
+10:10:57.824 info host patching /Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/homework/node_modules/jest-runner/build/testWorker.js
+10:10:57.999 info host completed tools discovery and integration
+10:11:54.000 info host removing cache folder: f1b7a5f340b0133e550670e3fdb59eb0
+10:14:44.478 info extension stopping host
+10:14:44.487 info host removing cache folder: ea455424688dfc218af8bac0d2965bc3
+10:14:54.261 info extension stopping host
+10:14:56.140 info extension host process output: port:[55319]
+10:14:56.140 info extension 
+10:14:56.001 info host ------------ starting ------------
+10:14:56.185 info host client connected: extension { address: '::', family: 'IPv6', port: 55319 }
+10:14:56.189 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.134","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.134/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.134/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Variables.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Objetos, métodos en Objs, Bucle For in.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Funciones.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Operadores lógicos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Bucles en arrays.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Control de flujo.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Arrays y métodos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Ensayo FOR Y WHILE.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Bracket Notation Y Dot Notation.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Operadores de Comparación.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Introducción a las Clases.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Bucle WHILE.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Operadores.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Bucle FOR.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Prototipos y Herencias.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Callbacks.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Extensiones.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/SaraFT36b/Módulo 1/Closure.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"hh:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.39"],"host":"127.0.0.1"}
+10:14:56.465 info host starting tools discovery and integration
+10:14:56.476 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+10:14:56.483 info host looking for tools to patch
+10:14:56.678 info host found 0 tool file(s) to patch
+10:14:56.686 info host completed tools discovery and integration
+10:14:56.970 info host worker Starting Host Worker...
+10:44:02.394 info extension stopping host
+10:44:02.532 info host removing cache folder: 833216415ad9e647df16651e37a030ed
+19:30:18.808 info extension stopping host
+20:07:08.425 info extension stopping host
+20:44:00.973 info extension stopping host
+20:44:43.114 info extension stopping host
+20:50:41.004 info extension stopping host
+21:25:35.253 info extension stopping host
+21:45:58.562 info extension stopping host
+21:46:54.359 info extension stopping host
+21:46:56.929 info extension host process output: port:[55278]
+21:46:56.929 info extension 
+21:46:56.817 info host ------------ starting ------------
+21:46:57.061 info host client connected: extension { address: '::', family: 'IPv6', port: 55278 }
+21:46:57.066 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.182","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.182/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.182/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/Users/SaraVillegas/Desktop/FT-M1/06-EstructuraDeDatos-III/Ejemplos/arbolBusqueda/arbolBinarioBusqueda.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/Solucion.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/homework.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/homework.js","reason":"open"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/listas.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/matriz.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/torreDeHanoi.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/arrays.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/torredehanoiFacu.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/demo/sum.test.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/05-EstructuraDeDatos-II/Ejemplos/pilas.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M1/02-JavaScriptAvanzado-I/debugging/demo/index.html","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.36"],"host":"127.0.0.1"}
+21:46:57.378 info host starting tools discovery and integration
+21:46:57.440 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+21:46:57.449 info host looking for tools to patch
+21:46:58.344 info host worker Starting Host Worker...
+21:47:01.690 info host found 6 tool file(s) to patch
+21:47:01.693 info host patching /Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/node_modules/jest/bin/jest.js
+21:47:01.694 info host patching /Users/SaraVillegas/Desktop/FT-M1/01-IntroToCS/homework/node_modules/jest-runner/build/testWorker.js
+21:47:01.694 info host patching /Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/node_modules/jest/bin/jest.js
+21:47:01.695 info host patching /Users/SaraVillegas/Desktop/FT-M1/03-JavaScriptAvanzado-II/homework/node_modules/jest-runner/build/testWorker.js
+21:47:01.695 info host patching /Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/homework/node_modules/jest/bin/jest.js
+21:47:01.695 info host patching /Users/SaraVillegas/Desktop/FT-M1/EXTRA-Testing/homework/node_modules/jest-runner/build/testWorker.js
+21:47:01.767 info host completed tools discovery and integration
+21:49:52.908 info extension stopping host
+21:49:52.922 info host removing cache folder: 786b509f5ea23e08abeafe521a2df4b0
+17:21:48.026 info extension stopping host
+17:21:58.856 info extension stopping host
+17:22:00.225 info extension host process output: port:[55347]
+17:22:00.225 info extension 
+17:22:00.161 info host ------------ starting ------------
+17:22:00.351 info host client connected: extension { address: '::', family: 'IPv6', port: 55347 }
+17:22:00.355 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+17:22:00.406 info host starting tools discovery and integration
+17:22:00.419 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+17:22:00.427 info host looking for tools to patch
+17:22:00.476 info host found 0 tool file(s) to patch
+17:22:00.479 info host completed tools discovery and integration
+17:22:00.518 info host worker Starting Host Worker...
+17:41:25.063 info extension stopping host
+17:41:25.110 info host removing cache folder: 20ca060701d3afeb18f357c1d600f2cd
+17:41:42.888 info extension stopping host
+17:41:44.773 info extension host process output: port:[55528]
+17:41:44.774 info extension 
+17:41:44.684 info host ------------ starting ------------
+17:41:44.939 info host client connected: extension { address: '::', family: 'IPv6', port: 55528 }
+17:41:44.944 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/Users/SaraVillegas/Desktop/Notes/Bucle FOR.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Callbacks.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Extensiones.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Operadores.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Bucle WHILE.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Introducción a las Clases.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Prototipos y Herencias.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Ensayo FOR Y WHILE.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Operadores de Comparación.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Bracket Notation Y Dot Notation.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Arrays y métodos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Control de flujo.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Bucles en arrays.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Operadores lógicos.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Funciones.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Variables.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Practica.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/Notes/Objetos, métodos en Objs, Bucle For in.js","reason":"search"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+17:41:44.995 info host starting tools discovery and integration
+17:41:45.016 info host looking for tools to patch
+17:41:45.204 info host found 0 tool file(s) to patch
+17:41:45.211 info host completed tools discovery and integration
+17:41:45.357 info host worker Starting Host Worker...
+18:04:33.985 info extension stopping host
+18:04:34.019 info host removing cache folder: e0030a26c5683ba09a5760a1c005e5df
+18:10:55.589 info extension stopping host
+18:10:56.914 info extension host process output: port:[55679]
+18:10:56.914 info extension 
+18:10:56.836 info host ------------ starting ------------
+18:10:57.008 info host client connected: extension { address: '::', family: 'IPv6', port: 55679 }
+18:10:57.013 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+18:10:57.062 info host starting tools discovery and integration
+18:10:57.077 info host looking for tools to patch
+18:10:57.147 info host found 0 tool file(s) to patch
+18:10:57.160 info host completed tools discovery and integration
+18:10:57.245 info host worker Starting Host Worker...
+13:35:08.866 info extension stopping host
+13:35:08.905 info host removing cache folder: a0df451884bd30299ca221ae4ad7d184
+13:35:35.036 info extension stopping host
+13:35:49.088 info extension stopping host
+13:35:49.730 info host ------------ starting ------------
+13:35:49.762 info extension host process output: port:[56547]
+13:35:49.763 info extension 
+13:35:49.843 info host client connected: extension { address: '::', family: 'IPv6', port: 56547 }
+13:35:49.853 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+13:35:49.881 info host starting tools discovery and integration
+13:35:49.895 info host looking for tools to patch
+13:35:49.937 info host found 0 tool file(s) to patch
+13:35:49.940 info host completed tools discovery and integration
+13:35:49.966 info host worker Starting Host Worker...
+13:36:45.547 info extension stopping host
+13:37:00.008 info extension stopping host
+13:37:00.803 info extension host process output: port:[56567]
+13:37:00.803 info extension 
+13:37:00.751 info host ------------ starting ------------
+13:37:00.765 info host removing cache folder: 83206cdfa0b3284e50bb7a7576fc5f8b
+13:37:00.855 info host client connected: extension { address: '::', family: 'IPv6', port: 56567 }
+13:37:00.860 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+13:37:00.895 info host starting tools discovery and integration
+13:37:00.904 info host looking for tools to patch
+13:37:00.940 info host found 0 tool file(s) to patch
+13:37:01.052 info host worker Starting Host Worker...
+13:37:01.099 info host completed tools discovery and integration
+13:39:36.135 info extension stopping host
+13:39:36.152 info host removing cache folder: 919e2c987cad85dfb836ab9681291518
+13:51:27.088 info extension stopping host
+13:53:24.013 info extension stopping host
+14:04:16.858 info extension stopping host
+14:04:29.044 info extension stopping host
+14:04:29.954 info extension host process output: port:[57269]
+14:04:29.954 info extension 
+14:04:29.916 info host ------------ starting ------------
+14:04:30.026 info host client connected: extension { address: '::', family: 'IPv6', port: 57269 }
+14:04:30.031 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.185/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+14:04:30.065 info host starting tools discovery and integration
+14:04:30.078 info host looking for tools to patch
+14:04:30.119 info host found 0 tool file(s) to patch
+14:04:30.123 info host completed tools discovery and integration
+14:04:30.214 info host worker Starting Host Worker...
+14:13:29.946 info extension stopping host
+14:13:29.964 info host removing cache folder: 8b626ea22de59484154a64537063af3c
+17:04:15.196 info extension stopping host
+17:04:33.291 info extension stopping host
+17:04:48.821 info extension stopping host
+17:04:50.147 info extension host process output: port:[49608]
+17:04:50.148 info extension 
+17:04:50.070 info host ------------ starting ------------
+17:04:50.329 info host client connected: extension { address: '::', family: 'IPv6', port: 49608 }
+17:04:50.353 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+17:04:50.396 info host starting tools discovery and integration
+17:04:50.408 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+17:04:50.416 info host looking for tools to patch
+17:04:50.517 info host found 0 tool file(s) to patch
+17:04:50.522 info host completed tools discovery and integration
+17:04:50.630 info host worker Starting Host Worker...
+17:25:14.959 info extension stopping host
+17:25:14.970 info host removing cache folder: ff56215794abf5d71e555e83938ec4c4
+17:43:46.323 info extension stopping host
+17:43:47.798 info extension host process output: port:[49842]
+17:43:47.590 info host ------------ starting ------------
+17:43:47.798 info extension 
+17:43:47.849 info host client connected: extension { address: '::', family: 'IPv6', port: 49842 }
+17:43:47.883 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+17:43:47.963 info host starting tools discovery and integration
+17:43:47.993 info host looking for tools to patch
+17:43:48.281 info host found 0 tool file(s) to patch
+17:43:48.333 info host completed tools discovery and integration
+17:43:48.566 info host worker Starting Host Worker...
+18:09:29.914 info extension stopping host
+18:09:29.937 info host removing cache folder: e6138ab8cf3f985b2af1e50f10e25eeb
+18:09:49.692 info extension stopping host
+18:09:59.909 info extension stopping host
+18:10:02.508 info host ------------ starting ------------
+18:10:02.688 info extension host process output: port:[50042]
+18:10:02.689 info extension 
+18:10:02.824 info host client connected: extension { address: '::', family: 'IPv6', port: 50042 }
+18:10:02.832 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+18:10:03.112 info host starting tools discovery and integration
+18:10:03.154 info host looking for tools to patch
+18:10:03.302 info host found 0 tool file(s) to patch
+18:10:03.309 info host completed tools discovery and integration
+18:10:03.562 info host worker Starting Host Worker...
+18:18:18.966 info extension stopping host
+18:18:19.049 info host removing cache folder: e05efcce5d94ebadfdeb7aea110f495d
+18:18:38.888 info extension stopping host
+18:18:40.874 info extension host process output: port:[50132]
+18:18:40.874 info extension 
+18:18:40.813 info host ------------ starting ------------
+18:18:41.028 info host client connected: extension { address: '::', family: 'IPv6', port: 50132 }
+18:18:41.033 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+18:18:41.143 info host starting tools discovery and integration
+18:18:41.169 info host looking for tools to patch
+18:18:41.224 info host found 0 tool file(s) to patch
+18:18:41.262 info host completed tools discovery and integration
+18:18:41.429 info host worker Starting Host Worker...
+18:56:21.966 info extension stopping host
+18:56:21.986 info host removing cache folder: 1727e8a8fc2af3a47324cf73296cfe00
+18:56:47.454 info extension stopping host
+18:56:49.217 info extension host process output: port:[50654]
+18:56:49.218 info extension 
+18:56:49.109 info host ------------ starting ------------
+18:56:49.290 info host client connected: extension { address: '::', family: 'IPv6', port: 50654 }
+18:56:49.294 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.186/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+18:56:49.483 info host starting tools discovery and integration
+18:56:49.500 info host looking for tools to patch
+18:56:49.715 info host found 0 tool file(s) to patch
+18:56:49.720 info host completed tools discovery and integration
+18:56:50.211 info host worker Starting Host Worker...
+14:11:19.068 info extension stopping host
+14:11:19.176 info host removing cache folder: 89ef96598ad4b3e4b782b584f0b340ee
+14:16:00.772 info extension stopping host
+14:24:17.786 info extension stopping host
+14:24:34.804 info extension stopping host
+14:24:36.234 info extension host process output: port:[52485]
+14:24:36.234 info extension 
+14:24:36.204 info host ------------ starting ------------
+14:24:36.386 info host client connected: extension { address: '::', family: 'IPv6', port: 52485 }
+14:24:36.390 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+14:24:36.488 info host starting tools discovery and integration
+14:24:36.500 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+14:24:36.506 info host looking for tools to patch
+14:24:36.624 info host found 0 tool file(s) to patch
+14:24:36.631 info host completed tools discovery and integration
+14:24:36.798 info host worker Starting Host Worker...
+14:49:32.156 info extension stopping host
+14:49:32.167 info host removing cache folder: 9c9dd19994e2f53bc8c2f5de4c6ad22c
+15:22:16.182 info extension stopping host
+15:22:50.598 info extension stopping host
+15:22:51.388 info extension host process output: port:[53381]
+15:22:51.389 info extension 
+15:22:51.363 info host ------------ starting ------------
+15:22:51.500 info host client connected: extension { address: '::', family: 'IPv6', port: 53381 }
+15:22:51.505 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+15:22:51.555 info host starting tools discovery and integration
+15:22:51.574 info host looking for tools to patch
+15:22:51.601 info host found 0 tool file(s) to patch
+15:22:51.604 info host completed tools discovery and integration
+15:22:51.618 info host worker Starting Host Worker...
+15:23:01.010 info extension stopping host
+15:23:32.905 info extension stopping host
+15:23:47.476 info extension stopping host
+15:23:48.667 info extension host process output: port:[53398]
+15:23:48.669 info extension 
+15:23:48.646 info host ------------ starting ------------
+15:23:48.794 info host client connected: extension { address: '::', family: 'IPv6', port: 53398 }
+15:23:48.798 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+15:23:48.840 info host starting tools discovery and integration
+15:23:48.854 info host looking for tools to patch
+15:23:48.880 info host found 0 tool file(s) to patch
+15:23:48.889 info host completed tools discovery and integration
+15:23:48.995 info host worker Starting Host Worker...
+15:23:55.338 info host removing cache folder: cee002c2c32172c8b54d2b10eccef0f3
+15:35:03.494 info extension stopping host
+15:37:33.059 info extension stopping host
+16:15:41.729 info extension stopping host
+16:15:56.348 info extension stopping host
+16:15:57.544 info extension host process output: port:[49760]
+16:15:57.454 info host ------------ starting ------------
+16:15:57.544 info extension 
+16:15:57.678 info host client connected: extension { address: '::', family: 'IPv6', port: 49760 }
+16:15:57.681 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+16:15:57.724 info host starting tools discovery and integration
+16:15:57.739 info host looking for tools to patch
+16:15:57.761 info host found 0 tool file(s) to patch
+16:15:57.765 info host completed tools discovery and integration
+16:15:57.874 info host worker Starting Host Worker...
+16:16:57.478 info host removing cache folder: 29ea5fcef018d0f2194447977f506d99
+16:23:24.913 info extension stopping host
+16:23:24.933 info host removing cache folder: 0557b9185fe355840dabb7f7eff0ec23
+16:33:12.578 info extension stopping host
+14:16:53.040 info extension stopping host
+14:17:07.848 info extension stopping host
+14:17:35.818 info extension stopping host
+14:17:38.322 info host ------------ starting ------------
+14:17:38.523 info extension host process output: port:[50615]
+14:17:38.523 info extension 
+14:17:38.558 info host client connected: extension { address: '::', family: 'IPv6', port: 50615 }
+14:17:38.563 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+14:17:38.784 info host starting tools discovery and integration
+14:17:38.795 info host looking for tools to patch
+14:17:38.942 info host found 0 tool file(s) to patch
+14:17:38.945 info host completed tools discovery and integration
+14:17:39.338 info host worker Starting Host Worker...
+14:32:38.508 info extension stopping host
+14:32:38.532 info host removing cache folder: e410630bfe49a297c1eb4c54d7e57002
+14:33:06.470 info extension stopping host
+14:33:07.489 info extension host process output: port:[50764]
+14:33:07.489 info extension 
+14:33:07.463 info host ------------ starting ------------
+14:33:07.769 info host client connected: extension { address: '::', family: 'IPv6', port: 50764 }
+14:33:07.788 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.187/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+14:33:07.830 info host starting tools discovery and integration
+14:33:07.842 info host looking for tools to patch
+14:33:07.860 info host worker Starting Host Worker...
+14:33:07.889 info host found 0 tool file(s) to patch
+14:33:07.892 info host completed tools discovery and integration
+15:35:43.719 info extension stopping host
+15:35:43.739 info host removing cache folder: f6eaeb204949e1137680adb944f28123
+10:43:04.266 info extension stopping host
+10:44:35.465 info extension stopping host
+15:49:09.300 info extension stopping host
+16:09:56.193 info extension stopping host
+16:10:26.377 info extension stopping host
+16:10:57.388 info extension stopping host
+16:11:11.945 info extension stopping host
+16:11:12.962 info extension host process output: port:[53200]
+16:11:12.962 info extension 
+16:11:12.888 info host ------------ starting ------------
+16:11:13.087 info host client connected: extension { address: '::', family: 'IPv6', port: 53200 }
+16:11:13.094 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.188","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.188/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.188/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+16:11:13.166 info host starting tools discovery and integration
+16:11:13.184 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+16:11:13.191 info host looking for tools to patch
+16:11:13.253 info host found 0 tool file(s) to patch
+16:11:13.261 info host completed tools discovery and integration
+16:11:13.415 info host worker Starting Host Worker...
+14:43:19.731 info host client disconnected: extension 1006
+21:53:25.265 info extension stopping host
+10:29:36.967 info extension stopping host
+10:44:56.278 info extension stopping host
+10:44:59.552 info extension host process output: port:[62392]
+10:44:59.552 info extension 
+10:44:59.467 info host ------------ starting ------------
+10:44:59.734 info host client connected: extension { address: '::', family: 'IPv6', port: 62392 }
+10:44:59.915 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.189","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.189/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.189/out/runtimeHook/errorHandler.js","filesToInstrument":[{"path":"/users/saravillegas/desktop/ft-m2/04-ajax/homework/server.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/10-react-forms/homework/01 - exercises/src/components/home/home.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/10-react-forms/demo/src/components/uncontrolled.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/10-react-forms/demo/src/components/dynamicinputs.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/demosubscribe/test.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/redux/index.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/demo/src/actions/index.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/demo/test.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/demo/dist/bundle.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/12-react-redux/homework/01 - exercises/tests/01.test.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/democlase/index.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/homework/server.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/homework/browser/app.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/demo/src/modulo1.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/demo/src/index.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/pruebaq.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/demo/eventos.html","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/03-es6/ejemplos.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/bucles en arrays.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/operadores de comparación.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/bracket notation y dot notation.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/bucle while.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/operadores.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/introducción a las clases.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/extensiones.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/callbacks.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/bucle for.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/prueba.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/prototipos y herencias.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/ensayo for y while.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/arrays y métodos.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/control de flujo.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/operadores lógicos.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/05-bundlers/demo/dist/bundle.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/quokka.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/funciones.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/01-dom/homework/assets/saraft36b/objetos, métodos en objs, bucle for in.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/homework/01 - exercises/src/components/species/species.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/demo/indexstatevsvar.html","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/demo/webpack/src/containers/main.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/demo/indexaxios.html","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/demo/indexstate.html","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/08-react-estado-lifecycle/demo/indexlifecycle.html","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/11-redux/demo/todos.js","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/13-react-hooks/demo/src/components/apphooks.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/09-react-routing/homework/01 - exercises/src/components/carddetail/carddetail.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/09-react-routing/homework/01 - exercises/src/components/home/home.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/07-react-estilos/demo/cssmodules/src/components/product.jsx","reason":"search"},{"path":"/users/saravillegas/desktop/ft-m2/07-react-estilos/demo/cssmodules/dist/bundle.js","reason":"search"},{"path":"/Users/SaraVillegas/Desktop/FT-M2/PruebaQ.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+10:44:59.954 info host starting tools discovery and integration
+10:44:59.964 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+10:44:59.969 info host looking for tools to patch
+10:45:00.473 info host worker Starting Host Worker...
+10:45:01.282 info host found 0 tool file(s) to patch
+10:45:01.290 info host completed tools discovery and integration
+10:45:59.518 info host removing cache folder: 58de08389d85589e9111557e1b851beb
+13:02:12.734 info extension stopping host
+13:02:12.755 info host removing cache folder: 5d45ca33fcdefc0d3f7754e14a2ce42b
+13:06:19.619 info extension stopping host
+13:07:09.935 info extension stopping host
+13:07:22.381 info extension stopping host
+13:07:24.081 info extension host process output: port:[63655]
+13:07:24.082 info extension 
+13:07:24.035 info host ------------ starting ------------
+13:07:24.230 info host client connected: extension { address: '::', family: 'IPv6', port: 63655 }
+13:07:24.234 info host starting host: {"extensionFolder":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.191","runtimeHookFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.191/out/runtimeHook/tracer.js","globalErrorHandlerFile":"/Users/SaraVillegas/.vscode/extensions/wallabyjs.console-ninja-0.0.191/out/runtimeHook/errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MacBook-Pro-de-Sara.local","192.168.1.85"],"host":"127.0.0.1"}
+13:07:24.301 info host starting tools discovery and integration
+13:07:24.311 info host updating /Users/SaraVillegas/.console-ninja/.bin/loader.js
+13:07:24.316 info host looking for tools to patch
+13:07:24.356 info host found 0 tool file(s) to patch
+13:07:24.497 info host completed tools discovery and integration
+13:07:24.654 info host worker Starting Host Worker...
+13:08:08.570 info extension stopping host

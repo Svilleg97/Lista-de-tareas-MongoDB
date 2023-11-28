@@ -1,0 +1,8 @@
+desktop
+cd desktop
+mkdir villegasM1
+cd villegasM1
+git clone https://github.com/checkpoint-soyhenry-org/2023-04-14-Svilleg97.git
+cd desktop
+clear
+cd desktop
