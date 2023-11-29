@@ -1,35 +1,44 @@
 const express = require('express');
-require('dotenv').config();
-const bodyParser = require('body-parser');
-const listViewRouter = require('./list-view-router');
-const listEditRouter = require('./list-edit-router');
+const router = express.Router();
 let tareas = require('./listaDeTareas');
 
-const app = express();
+router.post('/crear', (req, res) => {
+  const nuevaTarea = {
+    id: tareas.length + 1,
+    descripcion: req.body.descripcion,
+    estado: 'Pendiente',
+  };
 
-app.use(bodyParser.json());
-app.use(express.static("public"));
+  if (!nuevaTarea.descripcion) {
+    return res.status(400).send({message: 'La solicitud no tiene un valor para la propiedad "descripcion".'});
+  }
 
-app.use('/listar', listViewRouter);
-app.use('/editar', listEditRouter);
+  tareas.push(nuevaTarea);
+  res.status(200).send({message:`La tarea "${nuevaTarea.descripcion}" ha sido agregada.`});
+});
 
-app.get('/listar', (req, res) => {
-  if (tareas.length === 0) {
-    res.send({
-      mensaje: 'No hay tareas',
-    });
+router.delete('/eliminar/:id', (req, res) => {
+  const tareaId = req.params.id;
+  const tarea = tareas.find((tarea) => tarea.id == tareaId);
+
+  if (tarea) {
+    tareas.splice(tareas.indexOf(tarea), 1);
+    res.status(200).send(`La tarea "${tarea.descripcion}" ha sido eliminada.`);
   } else {
-    res.send(tareas);
+    res.status(404).send('La tarea no esta en nuestra base de datos.');
   }
 });
 
-app.get('/', (req, res) => {
+router.put('/actualizar/:id', (req, res) => {
+  const tareaId = req.params.id;
+  const tarea = tareas.find((tarea) => tarea.id == tareaId);
 
-    res.send("Bienvenido a tu organizador de tareas.");
-
+  if (tarea) {
+    tarea.estado = 'Completada';
+    res.status(200).send(`La tarea "${tarea.descripcion}" ha sido actualizada.`);
+  } else {
+    res.status(404).send('La tarea no esta en nuestra base de datos.');
+  }
 });
 
-const port = process.env.PORT;
-app.listen(port, () => {
-  console.log(`Servidor en ejecución en el puerto ${port}`);
-});
+module.exports = router;
